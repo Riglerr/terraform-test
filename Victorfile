@@ -1,5 +1,2 @@
 application_name: terraform-test
-
-
-
-
+application_language: Golang
